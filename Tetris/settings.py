@@ -7,7 +7,7 @@ FIELD_COLOR = (48, 39, 32)
 BG_COLOR = (24, 89, 117)
 
 SPRITE_DIR_PATH = 'Tetris/assets/sprites'
-FONT_PATH = 'Tetris/assets/font'
+FONT_PATH = 'Tetris/assets/font/Minecraft.ttf'
 
 ANIM_TIME_INTERVAL = 500 # milliseconds
 FAST_ANIM_TIME_INTERVAL = 1
